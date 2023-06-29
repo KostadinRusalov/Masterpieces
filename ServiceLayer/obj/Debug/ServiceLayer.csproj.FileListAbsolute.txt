@@ -1,0 +1,14 @@
+/Users/macintoshhd/Documents/School/2020-2021/Информатика/Multi Tier App/Masterpieces/ServiceLayer/bin/Debug/ServiceLayer.dll
+/Users/macintoshhd/Documents/School/2020-2021/Информатика/Multi Tier App/Masterpieces/ServiceLayer/bin/Debug/ServiceLayer.pdb
+/Users/macintoshhd/Documents/School/2020-2021/Информатика/Multi Tier App/Masterpieces/ServiceLayer/bin/Debug/BusinessLayer.dll
+/Users/macintoshhd/Documents/School/2020-2021/Информатика/Multi Tier App/Masterpieces/ServiceLayer/bin/Debug/DataLayer.dll
+/Users/macintoshhd/Documents/School/2020-2021/Информатика/Multi Tier App/Masterpieces/ServiceLayer/bin/Debug/EntityFramework.dll
+/Users/macintoshhd/Documents/School/2020-2021/Информатика/Multi Tier App/Masterpieces/ServiceLayer/bin/Debug/DataLayer.pdb
+/Users/macintoshhd/Documents/School/2020-2021/Информатика/Multi Tier App/Masterpieces/ServiceLayer/bin/Debug/DataLayer.dll.config
+/Users/macintoshhd/Documents/School/2020-2021/Информатика/Multi Tier App/Masterpieces/ServiceLayer/bin/Debug/BusinessLayer.pdb
+/Users/macintoshhd/Documents/School/2020-2021/Информатика/Multi Tier App/Masterpieces/ServiceLayer/bin/Debug/EntityFramework.xml
+/Users/macintoshhd/Documents/School/2020-2021/Информатика/Multi Tier App/Masterpieces/ServiceLayer/obj/Debug/ServiceLayer.csprojAssemblyReference.cache
+/Users/macintoshhd/Documents/School/2020-2021/Информатика/Multi Tier App/Masterpieces/ServiceLayer/obj/Debug/ServiceLayer.csproj.CoreCompileInputs.cache
+/Users/macintoshhd/Documents/School/2020-2021/Информатика/Multi Tier App/Masterpieces/ServiceLayer/obj/Debug/ServiceLayer.csproj.CopyComplete
+/Users/macintoshhd/Documents/School/2020-2021/Информатика/Multi Tier App/Masterpieces/ServiceLayer/obj/Debug/ServiceLayer.dll
+/Users/macintoshhd/Documents/School/2020-2021/Информатика/Multi Tier App/Masterpieces/ServiceLayer/obj/Debug/ServiceLayer.pdb

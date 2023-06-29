@@ -1,0 +1,6 @@
+/Users/macintoshhd/Documents/School/2020-2021/Информатика/Multi Tier App/Masterpieces/TestingLayer/bin/Debug/TestingLayer.exe
+/Users/macintoshhd/Documents/School/2020-2021/Информатика/Multi Tier App/Masterpieces/TestingLayer/bin/Debug/TestingLayer.pdb
+/Users/macintoshhd/Documents/School/2020-2021/Информатика/Multi Tier App/Masterpieces/TestingLayer/obj/anycpu/Debug/TestingLayer.csprojAssemblyReference.cache
+/Users/macintoshhd/Documents/School/2020-2021/Информатика/Multi Tier App/Masterpieces/TestingLayer/obj/anycpu/Debug/TestingLayer.csproj.CoreCompileInputs.cache
+/Users/macintoshhd/Documents/School/2020-2021/Информатика/Multi Tier App/Masterpieces/TestingLayer/obj/anycpu/Debug/TestingLayer.exe
+/Users/macintoshhd/Documents/School/2020-2021/Информатика/Multi Tier App/Masterpieces/TestingLayer/obj/anycpu/Debug/TestingLayer.pdb

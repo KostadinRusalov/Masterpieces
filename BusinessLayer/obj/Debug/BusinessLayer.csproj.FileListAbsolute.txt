@@ -1,0 +1,12 @@
+/Users/macintoshhd/Documents/School/2020-2021/Информатика/Multi Tier App/Masterpieces/BusinessLayer/bin/Debug/BusinessLayer.dll
+/Users/macintoshhd/Documents/School/2020-2021/Информатика/Multi Tier App/Masterpieces/BusinessLayer/bin/Debug/BusinessLayer.pdb
+/Users/macintoshhd/Documents/School/2020-2021/Информатика/Multi Tier App/Masterpieces/BusinessLayer/obj/Debug/BusinessLayer.csprojAssemblyReference.cache
+/Users/macintoshhd/Documents/School/2020-2021/Информатика/Multi Tier App/Masterpieces/BusinessLayer/obj/Debug/BusinessLayer.csproj.CoreCompileInputs.cache
+/Users/macintoshhd/Documents/School/2020-2021/Информатика/Multi Tier App/Masterpieces/BusinessLayer/obj/Debug/BusinessLayer.dll
+/Users/macintoshhd/Documents/School/2020-2021/Информатика/Multi Tier App/Masterpieces/BusinessLayer/obj/Debug/BusinessLayer.pdb
+\\Mac\Home\Documents\School\2020-2021\Информатика\Multi Tier App\Masterpieces\BusinessLayer\bin\Debug\BusinessLayer.dll
+\\Mac\Home\Documents\School\2020-2021\Информатика\Multi Tier App\Masterpieces\BusinessLayer\bin\Debug\BusinessLayer.pdb
+\\Mac\Home\Documents\School\2020-2021\Информатика\Multi Tier App\Masterpieces\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+\\Mac\Home\Documents\School\2020-2021\Информатика\Multi Tier App\Masterpieces\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\School\2020-2021\Информатика\Multi Tier App\Masterpieces\BusinessLayer\obj\Debug\BusinessLayer.dll
+\\Mac\Home\Documents\School\2020-2021\Информатика\Multi Tier App\Masterpieces\BusinessLayer\obj\Debug\BusinessLayer.pdb
